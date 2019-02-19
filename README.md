@@ -1,2 +1,2 @@
 # tween
-A super fast, super light-weight transitions kit written in javascript.
+A super fast, super light-weight CSS transitions kit written in javascript.
